@@ -145,6 +145,18 @@ export const TIMELINE_EVENTS: TimelineEvent[] = [
         ],
         type: 'achievement'
     },
+   {
+        year: '2025',
+        title: 'H7TEX CTF',
+        subtitle: '9th Place',
+        organizer: 'SRM Institute of Science and Technology, Chennai',
+        description: 'Secured 9th place in an exciting and challenging cybersecurity competition, tackling problems in web exploitation, cryptography, forensics, and reverse engineering.',
+        details: [
+            'Gained hands-on experience in real-world security challenges',
+            'Focused on Web Exploitation, Boot2Root, Cryptography, and Forensics'
+        ],
+        type: 'achievement'
+    },
     {
         year: '2025',
         title: 'Hacker’s Gambit 2025',
