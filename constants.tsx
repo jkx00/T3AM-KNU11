@@ -145,6 +145,20 @@ export const TIMELINE_EVENTS: TimelineEvent[] = [
         ],
         type: 'achievement'
     },
+  {
+    year: '2025',
+    title: 'R00TW4R 2025 CTF',
+    subtitle: 'Community Workshop',
+    organizer: 'PSNA College',
+    description: 'A massive shout-out to everyone who participated, supported, and challenged themselves in R00TW4R 2025 CTF — a two-day hands-on bootcamp covering Networking, Cryptography, and Digital Forensics. Every flag captured and every skill learned reflected the true spirit of cybersecurity.',
+    details: [
+        'Concluded with a live mini-CTF designed by T3AM KNU11',
+        'Empowered aspiring cybersecurity professionals',
+        'Celebrated collaboration, curiosity, and late-night hacking energy',
+        'Set the stage for more challenges, growth, and innovation ahead'
+    ],
+    type: 'workshop'
+  },
    {
         year: '2025',
         title: 'H7TEX CTF',
