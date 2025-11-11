@@ -112,7 +112,7 @@ export const TEAM_MEMBERS: TeamMember[] = [
   },
   {
     name: 'Sri Rangan',
-    role: 'USERNAME : R3NKU',
+    role: 'USERNAME : 127.0.0.1',
     socials: { 
         linkedin: 'https://www.linkedin.com/in/sri-rangan-s-b295b5295', 
         tryhackme: 'https://tryhackme.com/p/r4ng4n' 
