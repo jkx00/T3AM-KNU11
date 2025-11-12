@@ -2,6 +2,14 @@
 import React from 'react';
 import type { NavLink, TeamMember, TimelineEvent, Sponsor, ProfileLink } from './types';
 import img1 from "./image/jk.jpeg"
+import img2 from "./image/jegan.jpeg"
+import img3 from "./image/sabari.jpeg"
+import img4 from "./image/siro.jpeg"
+import img5 from "./image/joshwa.jpeg"
+import img6 from "./image/joshua.jpeg"
+import img7 from "./image/siva.jpeg"
+import img8 from "./image/sri.jpeg"
+
 
 export const NAV_LINKS: NavLink[] = [
   { id: 'home', title: 'Home' },
@@ -67,7 +75,7 @@ export const TEAM_MEMBERS: TeamMember[] = [
   {
     name: 'Jegan',
     role: 'USERNAME : 4n0nym0u5',
-    imageUrl: '',
+    imageUrl: img2,
     socials: { 
         linkedin: 'https://www.linkedin.com/in/jegannithirajan-j-0b1618293/', 
         tryhackme: 'https://tryhackme.com/p/JeganX19' 
@@ -76,7 +84,7 @@ export const TEAM_MEMBERS: TeamMember[] = [
   {
     name: 'sabari',
     role: 'USERNAME : sabu01',
-    imageUrl: 'https://api.multiavatar.com/sabu01.svg',
+    imageUrl: img3,
     socials: { 
         linkedin: 'https://www.linkedin.com/in/sabareeshwari-selvarajan-75a985294', 
         tryhackme: 'https://tryhackme.com/p/sabarih4x' 
@@ -85,7 +93,7 @@ export const TEAM_MEMBERS: TeamMember[] = [
   {
     name: 'Sirophin',
     role: 'Username : S1R0x26',
-    imageUrl: 'https://api.multiavatar.com/S1R0x26.svg',
+    imageUrl: img4,
     socials: { 
         linkedin: 'https://www.linkedin.com/in/sirophin-t-x-64665a27', 
         tryhackme: 'https://tryhackme.com/p/sirophintx' 
@@ -94,7 +102,7 @@ export const TEAM_MEMBERS: TeamMember[] = [
   {
     name: 'Joshwa',
     role: 'User Name : J05HW4',
-    imageUrl: 'https://api.multiavatar.com/J05HW4.svg',
+    imageUrl: img5,
     socials: { 
         linkedin: 'https://www.linkedin.com/in/joshwa-n-46a615295', 
         tryhackme: 'https://tryhackme.com/p/J05HW4' 
@@ -103,7 +111,7 @@ export const TEAM_MEMBERS: TeamMember[] = [
   {
     name: 'Joshua',
     role: 'USERNAME : h3xh7wk',
-    imageUrl: 'https://api.multiavatar.com/h3xh7wk.svg',
+    imageUrl: img6,
     socials: { 
         linkedin: 'https://www.linkedin.com/in/joshua2508/', 
         tryhackme: 'https://tryhackme.com/p/h3xh7wk' 
@@ -112,7 +120,7 @@ export const TEAM_MEMBERS: TeamMember[] = [
   {
     name: 'Siva Prabu',
     role: 'USERNAME : 51v4',
-    imageUrl: 'https://api.multiavatar.com/51v4.svg',
+    imageUrl: img7,
     socials: { 
         linkedin: 'https://www.linkedin.com/in/siva-prabu-ab65712ba/', 
         tryhackme: 'https://tryhackme.com/p/51v4' 
@@ -121,7 +129,7 @@ export const TEAM_MEMBERS: TeamMember[] = [
   {
     name: 'Sri Rangan S',
     role: 'Username : R3NKU',
-    imageUrl: 'https://api.multiavatar.com/R3NKU.svg',
+    imageUrl: img8,
     socials: { 
         linkedin: 'https://www.linkedin.com/in/sri-rangan-s-b295b5295', 
         tryhackme: 'https://tryhackme.com/p/r4ng4n' 
