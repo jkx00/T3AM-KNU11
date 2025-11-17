@@ -135,6 +135,14 @@ export const TEAM_MEMBERS: TeamMember[] = [
         tryhackme: 'https://tryhackme.com/p/r4ng4n' 
     },
   },
+  {
+    name: 'Kaviya Sri',
+    role: 'K$R!',
+    socials: { 
+        linkedin: 'https://www.linkedin.com/in/kaviyasriv18/', 
+        tryhackme: 'https://tryhackme.com/p/kaviyasriv948' 
+    },
+  },
 ];
 
 export const TIMELINE_EVENTS: TimelineEvent[] = [
