@@ -225,7 +225,7 @@ export const TIMELINE_EVENTS: TimelineEvent[] = [
     year: '2025',
     title: 'H7CTF 2025 Finals',
     subtitle: '6th & 9th Place (International Finals)',
-    organizer: 'Not explicitly named, but implied to be a major international CTF organizer.',
+    organizer: 'SRM College, major international CTF organizer .',
     description: 'Two teams of members secured top-10 placements in the highly competitive international H7CTF 2025 Finals, competing against top global teams.',
     details: [
         'Team Mr. Robot secured 6th place with 30,000 points.',
