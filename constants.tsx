@@ -83,7 +83,7 @@ export const TEAM_MEMBERS: TeamMember[] = [
   },
   {
     name: 'sabari',
-    role: 'sabu01',
+    role: '$ABU',
     imageUrl: img3,
     socials: { 
         linkedin: 'https://www.linkedin.com/in/sabareeshwari-selvarajan-75a985294', 
@@ -128,7 +128,7 @@ export const TEAM_MEMBERS: TeamMember[] = [
   },
   {
     name: 'Sri Rangan',
-    role: '127.0.0.1',
+    role: 'H3is3Nb3rG_',
     imageUrl: img8,
     socials: { 
         linkedin: 'https://www.linkedin.com/in/sri-rangan-s-b295b5295', 
