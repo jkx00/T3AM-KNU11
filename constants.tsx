@@ -165,6 +165,20 @@ export const TIMELINE_EVENTS: TimelineEvent[] = [
         ],
         type: 'achievement'
     }, 
+  {  
+  year: '2026',
+  title: 'KICTF 2026 - Cyber Conclave',
+  subtitle: '🥇 1st Place',
+  organizer: 'Kumaraguru Institutions',
+  description: 'Champions of KICTF 2026! Team KNU11 (KNULL CTF) secured 1st place in Cyber Conclave after an intense competition against top teams.',
+  details: [
+    'Won ₹15,000 cash prize',
+    'Received $1,550 worth certifications & vouchers',
+    'Earned CRTP certification from Altered Security',
+    'Special thanks to Team NOVA for support'
+  ],
+  type: 'achievement'
+},
   {
         year: '2025',
         title: 'Phantom CTF',
