@@ -109,15 +109,6 @@ export const TEAM_MEMBERS: TeamMember[] = [
     },
   },
   {
-    name: 'Joshua',
-    role: 'h3xh7wk',
-    imageUrl: img6,
-    socials: { 
-        linkedin: 'https://www.linkedin.com/in/joshua2508/', 
-        tryhackme: 'https://tryhackme.com/p/h3xh7wk' 
-    },
-  },
-  {
     name: 'Siva Prabu',
     role: '5iv4',
     imageUrl: img7,
@@ -143,6 +134,23 @@ export const TEAM_MEMBERS: TeamMember[] = [
         tryhackme: 'https://tryhackme.com/p/kaviyasriv948' 
     },
   },
+  {
+  name: 'Serman Muthu Sundaresh B',
+  role: 'N4MR3S',
+  socials: { 
+    linkedin: 'https://www.linkedin.com/in/serman-muthu-sundaresh-b-9412b8329/', 
+    tryhackme: 'https://tryhackme.com/p/sserman010' 
+  },
+},
+  {
+  name: 'Karthikeyan S',
+  role: 'Z3R0.K4K4SH1',
+  socials: { 
+    linkedin: 'https://www.linkedin.com/in/karthikeyan-s-264a25339', 
+    github: 'https://share.google/egP9SAlQx42peICxm' 
+  },
+},
+  
 ];
 
 export const TIMELINE_EVENTS: TimelineEvent[] = [
