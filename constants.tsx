@@ -158,6 +158,13 @@ export const TEAM_MEMBERS: TeamMember[] = [
     tryhackme: 'https://tryhackme.com/p/N4MBU' 
   },
 },
+  {
+  "name": "Santhosh Kumar",
+  "role": "sanhex",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/santhoshkumar-cyberexpert/"
+  },
+},
   
 ];
 
@@ -189,6 +196,61 @@ export const TIMELINE_EVENTS: TimelineEvent[] = [
   type: 'achievement'
 },
   {
+  "year": "2026",
+  "title": "Cyber Splash",
+  "subtitle": "🥇 1st Place",
+  "organizer": "K. Ramakrishnan College of Technology",
+  "description": "Secured 1st place in 'Cyber Splash', organized by the Cyber Security Club at K. Ramakrishnan College of Technology.",
+  "details": [
+    "Conducted on 15th April 2026",
+    "Recognized for outstanding performance in cybersecurity competition",
+    "Certified by the Department of IT"
+  ],
+  "type": "achievement"
+},
+  {
+  "year": "2026",
+  "title": "MindKraft 2026 CTF",
+  "subtitle": "🥇 1st Place",
+  "organizer": "Karunya University",
+  "description": "T3AM KNU11 secured 1st place at the MindKraft 2026 Capture The Flag (CTF) competition, demonstrating exceptional cybersecurity skills and teamwork.",
+  "details": [
+    "Achieved 1st position overall",
+    "Hosted by Karunya University",
+    "Competed in a high-level CTF competition",
+    "Showcased strong teamwork and technical expertise"
+  ],
+  "type": "achievement"
+},
+  {
+  "year": "2026",
+  "title": "UNI6CTF 1.0",
+  "subtitle": "🥈 2nd Place",
+  "organizer": "Cyber Hunter Warrior",
+  "description": "T3AM KNU11 secured 2nd place in UNI6CTF 1.0, showcasing strong technical expertise and strategic problem-solving in a highly competitive environment.",
+  "details": [
+    "National-level Capture The Flag (CTF) competition",
+    "Achieved 2nd position overall",
+    "Competed against skilled participants",
+    "Tested technical and strategic cybersecurity skills",
+    "Intense and competitive CTF experience"
+  ],
+  "type": "achievement"
+},
+  {
+  "year": "2026",
+  "title": "Panimalar Engineering College CTF",
+  "subtitle": "🥈 2nd Place",
+  "organizer": "Panimalar Engineering College",
+  "description": "Secured 2nd place overall in the Panimalar Engineering College CTF, competing as a solo player under T3AM KNU11.",
+  "details": [
+    "Achieved 2nd position overall",
+    "Represented T3AM KNU11",
+    "Demonstrated strong cybersecurity and problem-solving skills"
+  ],
+  "type": "achievement"
+},
+  {
         year: '2025',
         title: 'Phantom CTF',
         subtitle: '🥉 3rd Place',
@@ -199,6 +261,21 @@ export const TIMELINE_EVENTS: TimelineEvent[] = [
         ],
         type: 'achievement'
     },
+{
+  "year": "2026",
+  "title": "OBSCURA - National Level CTF",
+  "subtitle": "🥉 3rd Place",
+  "organizer": "WiCyS Sathyabama Institute of Science & Technology & RedTeam Hacker Academy",
+  "description": "T3AM KNU11 secured 3rd place at the national-level CTF 'OBSCURA', competing against top teams from across the country in a highly competitive cybersecurity challenge.",
+  "details": [
+    "National-level Capture The Flag (CTF) competition",
+    "Competed against teams across India",
+    "Organized by WiCyS Sathyabama IST Chennai Student Chapter",
+    "Co-organized with RedTeam Hacker Academy",
+    "Valuable hands-on cybersecurity challenge experience"
+  ],
+  "type": "achievement"
+},
     {
         year: '2025',
         title: 'Cybercom CTF 2025',
