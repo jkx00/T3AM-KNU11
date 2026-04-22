@@ -176,7 +176,7 @@ export const TIMELINE_EVENTS: TimelineEvent[] = [
         organizer: 'Sri Eshwar College of Engineering, Coimbatore',
         description: 'Top of the leaderboard! Years of late-night labs and coffee-fueled debugging finally paid off with a 1st place finish',
         details: [
-            'Won a cash prize for the achievement'
+            'Won a cash prize for the achievement',
             'Won ₹15,000 cash prize'
         ],
         type: 'achievement'
