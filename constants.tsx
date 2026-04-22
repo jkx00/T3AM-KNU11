@@ -232,7 +232,6 @@ export const TIMELINE_EVENTS: TimelineEvent[] = [
     "National-level Capture The Flag (CTF) competition",
     "Achieved 2nd position overall",
     "Competed against skilled participants",
-    "Tested technical and strategic cybersecurity skills",
     "Intense and competitive CTF experience"
   ],
   "type": "achievement"
